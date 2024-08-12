@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "66b92643d4d83ae2b422547b",
+    "name": "HTML5",
+    "icon": "/images/skills/w/html5.svg"
+  },
+  {
+    "_id": "66b92643d4d83ae2b422547c",
+    "name": "CSS3",
+    "icon": "/images/skills/w/css3.svg"
+  },
+  {
+    "_id": "66b92643d4d83ae2b422547d",
+    "name": "JavaScript",
+    "icon": "/images/skills/w/javascript.svg"
+  },
+  {
+    "_id": "66b92643d4d83ae2b422547e",
+    "name": "TypeScript",
+    "icon": "/images/skills/w/typescript.svg"
+  },
+  {
+    "_id": "66b92643d4d83ae2b422547f",
+    "name": "Angular",
+    "icon": "/images/skills/w/angular.svg"
+  },
+  {
+    "_id": "66b92643d4d83ae2b4225480",
+    "name": "ReactJS",
+    "icon": "/images/skills/w/react.svg"
+  },
+  {
+    "_id": "66b92643d4d83ae2b4225481",
+    "name": "NextJS",
+    "icon": "/images/skills/w/nextjs.svg"
+  },
+  {
+    "_id": "66b92643d4d83ae2b4225482",
+    "name": "Tailwind",
+    "icon": "/images/skills/w/tailwind-css.svg"
+  },
+  {
+    "_id": "66b92643d4d83ae2b4225483",
+    "name": "Google Maps",
+    "icon": "/images/skills/w/google-maps.svg"
+  }
+]

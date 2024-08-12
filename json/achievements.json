@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "66b92e0c736c57f2e3eee410",
+    "type": 0,
+    "name": "Mith Hackathon",
+    "url": "https://medium.com/mithriltoken/%E7%AC%AC%E4%B8%80%E5%B1%86%E7%A7%98%E9%8A%80%E9%BB%91%E5%AE%A2%E6%9D%BE%E6%AD%A3%E5%BC%8F%E8%90%BD%E5%B9%95-d4f3c400ff18",
+    "cover": "/images/projects/mith-hackathon.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Reactjs",
+        "icon": "/images/skills/reactjs.svg"
+      },
+      {
+        "name": "MetaMask",
+        "icon": "/images/skills/metamask.svg"
+      },
+      {
+        "name": "Web3",
+        "icon": "/images/skills/web3.svg"
+      }
+    ],
+    "description": "I Love Games is a blockchain application primarily developed for gaming, where players can securely and instantly trade treasures with other players through this service. This application transforms all treasures into unique tokens, allowing buyers to browse desired treasures through the platform and complete transactions on the platform.",
+    "date": "2019/04"
+  },
+  {
+    "_id": "66b92e0c736c57f2e3eee411",
+    "type": 0,
+    "name": "TRON x Joyso",
+    "url": "https://tronaccelerator.io/",
+    "cover": "/images/projects/tron-joyso.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "name": "Angular",
+        "icon": "/images/skills/angular.svg"
+      },
+      {
+        "name": "TronLink",
+        "icon": "/images/skills/tronlink.svg"
+      },
+      {
+        "name": "Web3",
+        "icon": "/images/skills/web3.svg"
+      }
+    ],
+    "description": "Tron x Joyso is a new decentralized trading platform on the Tron blockchain, launched after Joyso. It allows buyers and sellers to complete transactions directly on the blockchain, offering enhanced security and privacy. This approach mitigates risks like exchange hacks and bankruptcies, providing a safer trading environment for users.",
+    "date": "2019/01"
+  }
+]

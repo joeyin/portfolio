@@ -1,0 +1,270 @@
+[
+  {
+    "_id": "66b94581afdb478ec8e80497",
+    "type": 1,
+    "name": "HighLow",
+    "url": "https://good-series.com/highlow/",
+    "cover": "/images/projects/highlow.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "jQuery",
+        "icon": "/images/skills/jquery.svg"
+      }
+    ],
+    "description": "HighLow is a straightforward poker game where players predict if the next card will be higher or lower than the current one. A correct guess wins the bet, while an incorrect guess results in a loss. The game relies on luck and simple decision-making for each card drawn.",
+    "date": "2024/04"
+  },
+  {
+    "_id": "66b92ddcca79465ce0635064",
+    "type": 1,
+    "name": "Media Content Management",
+    "cover": "/images/projects/iot-mediasystem.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "name": "Reactjs",
+        "icon": "/images/skills/reactjs.svg"
+      }
+    ],
+    "description": "Media Content Management is a regional platform for managing electronic billboards. Managers can schedule ads or playlists to play at specific times or on set cycles. The platform also enables customization of billboard layouts, providing full control over content display across the area.",
+    "date": "2023/09"
+  },
+  {
+    "_id": "66b92ddcca79465ce0635065",
+    "type": 1,
+    "name": "Energy Management System",
+    "cover": "/images/projects/carrefour.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "name": "Reactjs",
+        "icon": "/images/skills/reactjs.svg"
+      }
+    ],
+    "description": "The Energy Management System monitors device energy consumption, allowing managers to track usage over time and generate reports for internal discussions. It also supports setting on/off schedules for individual devices, enabling more efficient energy management and control.",
+    "date": "2022/11"
+  },
+  {
+    "_id": "66b92ddcca79465ce0635063",
+    "type": 1,
+    "name": "SmartPole",
+    "cover": "/images/projects/smartpole.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "name": "Reactjs",
+        "icon": "/images/skills/reactjs.svg"
+      },
+      {
+        "name": "Google Maps",
+        "icon": "/images/skills/googlemap.svg"
+      },
+      {
+        "name": "Leaflet.js",
+        "icon": "/images/skills/leaflet.svg"
+      }
+    ],
+    "description": "SmartPole is an IoT device management system used by cities and agencies. It integrates Google Maps for real-time device monitoring, instantly updating markers during anomalies. With Leaflet, users can upload custom maps for indoor and outdoor management, ensuring efficient device control similar to Google Maps.",
+    "date": "2021/08"
+  },
+  {
+    "_id": "66b92ddcca79465ce0635067",
+    "type": 1,
+    "name": "CARE",
+    "cover": "/images/projects/care-sale.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "name": "Angular",
+        "icon": "/images/skills/angular.svg"
+      },
+      {
+        "name": "Ionic",
+        "icon": "/images/skills/ionic.svg"
+      }
+    ],
+    "description": "Care, a leading used car trader in Taiwan, has seven branches nationwide. To improve inventory management, we developed an app using Ionic, enabling simultaneous Web, Android, and iOS versions. The app allows listing, selling, and querying vehicles, streamlining processes and saving significant time compared to traditional methods.",
+    "date": "2020/07"
+  },
+  {
+    "_id": "66b92ddcca79465ce0635068",
+    "type": 1,
+    "name": "TRON HighLow",
+    "cover": "/images/projects/tron-highlow.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Reactjs",
+        "icon": "/images/skills/reactjs.svg"
+      },
+      {
+        "name": "TronLink",
+        "icon": "/images/skills/tronlink.svg"
+      },
+      {
+        "name": "Web3",
+        "icon": "/images/skills/web3.svg"
+      }
+    ],
+    "description": "Tron HighLow is a poker game running on the Tron blockchain, where players must guess the size of the next card. If they guess correctly, they receive rewards; otherwise, they lose their chips. As the game operates on the blockchain, all contracts are fully transparent, ensuring fairness. Upon its launch, it attracted players from various countries to participate.",
+    "date": "2019/02"
+  },
+  {
+    "_id": "66b92ddcca79465ce0635069",
+    "type": 1,
+    "name": "TRON x Joyso",
+    "cover": "/images/projects/tron-joyso.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "name": "Angular",
+        "icon": "/images/skills/angular.svg"
+      },
+      {
+        "name": "TronLink",
+        "icon": "/images/skills/tronlink.svg"
+      },
+      {
+        "name": "Web3",
+        "icon": "/images/skills/web3.svg"
+      }
+    ],
+    "description": "Tron x Joyso is a decentralized trading platform on the Tron blockchain, enhancing security and privacy for users. By enabling direct transactions on the blockchain, it reduces risks of exchange hacks and bankruptcies, providing a safer trading environment.",
+    "date": "2019/01"
+  },
+  {
+    "_id": "66b92ddcca79465ce0635066",
+    "type": 1,
+    "name": "GPUMINE",
+    "cover": "/images/projects/gpumine.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "name": "Next.js",
+        "icon": "/images/skills/nextjs.svg"
+      },
+      {
+        "name": "MetaMask",
+        "icon": "/images/skills/metamask.svg"
+      }
+    ],
+    "description": "Founded in late 2017, GPUMINE was Taiwan's largest Ethereum mining pool service provider. Although Ethereum mining has ceased POW, our goal remains to provide miners with an efficient experience. We offer data charts for visualizing earnings and support report exports to help optimize mining equipment.",
+    "date": "2018/10"
+  },
+  {
+    "_id": "66b92ddcca79465ce063506a",
+    "type": 1,
+    "name": "Joyso",
+    "url": "https://joyso.io/trade/en/markets/joy_eth",
+    "cover": "/images/projects/joyso.jpg",
+    "skills": [
+      {
+        "name": "HTML5",
+        "icon": "/images/skills/html5.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/skills/css3.svg"
+      },
+      {
+        "name": "Typescript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "name": "Angular",
+        "icon": "/images/skills/angular.svg"
+      },
+      {
+        "name": "MetaMask",
+        "icon": "/images/skills/metamask.svg"
+      },
+      {
+        "name": "Web3",
+        "icon": "/images/skills/web3.svg"
+      }
+    ],
+    "description": "Joyso is the world’s first hybrid decentralized exchange, allowing transactions directly on the blockchain. It addresses risks like hacks and bankruptcies seen in traditional exchanges, offering a safer and more private trading experience through its decentralized mechanism, protecting investors from such issues.",
+    "date": "2018/05"
+  }
+]
